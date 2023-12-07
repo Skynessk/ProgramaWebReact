@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name": "On The Road",
+        "author":"Jack Kerouac",
+        "price":10,
+        "img":"https://www.librosylibretas.com/wp-content/uploads/2008/11/20070403203542-on-the-road2.jpg",
+        "quanty": 1
+    },
+    {
+        "id":2,
+        "name": "The Subterraneans",
+        "author":"Jack Kerouac",
+        "price":20,
+        "img":"https://i.pinimg.com/originals/41/4b/c4/414bc4a0eedb1a46772be83e78d47fef.jpg",
+        "quanty": 1
+    },
+    {
+        "id":3,
+        "name": "Querido John",
+        "author":"Nicolas Sparks",
+        "price":15,
+        "img":"https://2.bp.blogspot.com/-BocwtNJLHhw/UkSjhyAGSxI/AAAAAAAAA-4/0aASqbRPAZo/s1600/Rese%C3%B1a+11.jpg",
+        "quanty": 1
+    },
+    {
+        "id":4,
+        "name": "La fortaleza digital",
+        "author":"Dann Brown",
+        "price":35,
+        "img":"https://th.bing.com/th/id/R.3d697dd6b7b3dcf7d7b6ff4323f2a0ca?rik=4lSF7rFbf3vhog&riu=http%3a%2f%2fbibliotecaquijote.files.wordpress.com%2f2012%2f02%2fla-fortaleza-digital.jpg&ehk=6xnMUlmJoouBLsLSId83SWVkdAumTZ81ZQ9Hs4jrXbs%3d&risl=&pid=ImgRaw&r=0",
+        "quanty": 1
+    }
+]
